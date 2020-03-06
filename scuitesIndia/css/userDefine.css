@@ -1,0 +1,30 @@
+﻿.HeaderLogo{
+    padding:0px !important;
+    margin-left:0px !important;
+    margin-bottom:0.2em !important;
+    font-size:0px !important;
+    width:40% !important;
+}
+    .HeaderLogo img{
+        width:100%;
+    }
+    .sidebar {
+        padding: 0.5em 0px 0 0px !important;
+    }
+.social-icons ul li a{
+    margin:0px !important;
+}
+.side-btm {
+    bottom: 0px !important;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    width:100%;
+}
+.top-menu ul li a {
+    padding-top: 0.35em !important;
+    padding-bottom: 0.25em !important
+}
